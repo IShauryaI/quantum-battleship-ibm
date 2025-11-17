@@ -90,7 +90,7 @@ Both backend applications expose RESTful API endpoints for game management, ship
 *   **Classic Battleship:** Place your ships on the 10x10 grid, then take turns shooting at the AI's board. The AI will use its quantum intelligence to try and sink your fleet!
 *   **Quantum Battleship:** Place your 3 ships on the 5-cell grid. Use the "bomb" action to interact with the quantum circuit and deduce the location of your opponent's ships through probability measurements.
 
-## 🤝 Contributing
+## 🤝 Contributors
 
 Ali - Daniel - Shaurya - Mujtaba
 
